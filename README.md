@@ -18,7 +18,7 @@ Dudas, comentarios y demás:[suericgp@gmail.com]
 5. Renombrar archivo .env.example a .env .
 6. Correr `php artisan key:generate` .
 7. Correr `php artisan serve` para probar .
-8. Ir al navegador: [http://localhost:8000] . Debería verse: LARAVEL 5 .
+8. Ir al navegador: [http://localhost:8000] (http://localhost:8000) . Debería verse: LARAVEL 5 .
 9. Conseguir IP de interfaz WiFi .
 10. Editar .env . Cambiar DB_HOST, DB_DATABASE, DB_USERNAME, DB_PASSWORD por las suyas.
 11. Correr `php -S IP:PUERTO -t public` .
